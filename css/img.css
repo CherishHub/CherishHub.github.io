@@ -1,0 +1,27 @@
+.navbar-brand {
+    height:20px;
+}
+.image:hover{
+    height: 110%;
+}
+.image {
+    margin: auto;
+    position: relative;
+    margin-top: 6%;
+    height: 105%;
+    z-index: 1;
+    display: block;
+}
+.historyicon{
+    filter: invert(88%) sepia(7%) saturate(2794%) hue-rotate(85deg) brightness(83%) contrast(109%);
+    padding: 6%;
+}
+.transfericon{
+    filter: invert(88%) sepia(7%) saturate(2794%) hue-rotate(85deg) brightness(83%) contrast(109%);
+}
+.historyicon:hover {
+    height: 63px;
+}
+.transfericon:hover{
+    height: 63px;
+}

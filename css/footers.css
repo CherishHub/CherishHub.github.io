@@ -1,0 +1,22 @@
+.footer1 {
+    float: none;
+    position:fixed;
+    left: 0;
+    bottom: 16px;
+    width: 100%;
+    color: black;
+    background-color: rgb(255, 242, 224);
+    text-align:left;
+}
+.footer {
+    float: none;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
+    background-color: grey;
+    color: white;
+}
+
+
